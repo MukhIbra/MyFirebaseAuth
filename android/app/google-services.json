@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779848736755",
+    "project_id": "myfb-3dc7b",
+    "storage_bucket": "myfb-3dc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779848736755:android:6408fe4941a797f971fc86",
+        "android_client_info": {
+          "package_name": "com.example.myfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGmnjy7o0ilEUoShd4axLCWoctl5Q75k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
